@@ -1,6 +1,6 @@
-name: astrbot_plugin_news_sum
+name: astrbot_plugin_hltv_news_sum
 display_name: HLTV新闻总结
 desc: 自动抓取HLTV新闻并AI总结
 version: v1.0.0
 author: lapulane
-repo: https://github.com/lapulane/astrbot_plugin_news_sum
+repo: https://github.com/lapulane/astrbot_plugin_hltv_news_sum
