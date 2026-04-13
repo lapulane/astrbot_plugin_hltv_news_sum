@@ -1,2 +1,2 @@
-from .main import RandomJokes
-__plugin__ = RandomJokes
+from .main import Main
+__plugin__ = Main
